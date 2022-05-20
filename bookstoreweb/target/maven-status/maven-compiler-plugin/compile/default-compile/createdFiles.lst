@@ -1,0 +1,10 @@
+local\jamily\bookstoreweb\controller\UserLogoutServlet.class
+local\jamily\bookstoreweb\controller\UserLoginServlet.class
+local\jamily\bookstoreweb\model\dao\BookDAO.class
+local\jamily\bookstoreweb\controller\BookServelet.class
+local\jamily\bookstoreweb\model\bean\User.class
+local\jamily\bookstoreweb\model\dao\UserDAO.class
+connection\MySQLConnection.class
+local\jamily\bookstoreweb\model\bean\Book.class
+local\jamily\bookstoreweb\controller\AutorizaUserFilter.class
+local\jamily\bookstoreweb\controller\UserServlet.class
